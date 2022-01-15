@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ipsum{
+    height: 290px;
+    width: 590px;
+    background-color: aqua;
+    border: 5px solid yellow;
+    margin: 20px 200px;
+    border-radius: 10px;
+    padding: 30px 200px;
+    text-align: center;
+    box-shadow: 2px 5px 2px gray;
+    text-align: justify;
+    font-family: cursive;
+    
+    
+
+}
